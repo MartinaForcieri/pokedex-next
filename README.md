@@ -7,7 +7,9 @@ or
 pnpm dev
 or
 
-bun dev Open http://localhost:3000 with your browser to see the result.
+bun dev 
+
+Open http://localhost:3000 with your browser to see the result.
 
 I built this app with Next.js, global.css and Tailwind.
 
